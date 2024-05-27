@@ -1,3 +1,4 @@
+'use client';
 import { Header } from '@/Components/Header/Header';
 import Image from 'next/image';
 

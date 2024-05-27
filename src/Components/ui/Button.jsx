@@ -1,4 +1,4 @@
 import React from 'react';
-export const Button = ({ name }) => {
-  return <button>{name}</button>;
+export const Button = ({ style, name }) => {
+  return <button className={style}>{name}</button>;
 };
